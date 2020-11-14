@@ -1,0 +1,22 @@
+com/example/it17044578/SignUpActivity.java
+ com.example.it17044578.SignUpActivity
+ com.example.it17044578.SignUpActivity$1
+ com.example.it17044578.SignUpActivity$2
+ com.example.it17044578.SignUpActivity$3
+com/example/it17044578/Joke.java
+ com.example.it17044578.Joke
+com/example/it17044578/BuildConfig.java
+ com.example.it17044578.BuildConfig
+com/example/it17044578/DashboardActivity.java
+ com.example.it17044578.DashboardActivity
+ com.example.it17044578.DashboardActivity$1
+com/example/it17044578/JokeDashboard.java
+ com.example.it17044578.JokeDashboard
+ com.example.it17044578.JokeDashboard$1
+ com.example.it17044578.JokeDashboard$2
+ com.example.it17044578.JokeDashboard$3
+com/example/it17044578/MainActivity.java
+ com.example.it17044578.MainActivity
+ com.example.it17044578.MainActivity$1
+ com.example.it17044578.MainActivity$2
+ com.example.it17044578.MainActivity$3
